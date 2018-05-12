@@ -1,0 +1,31 @@
+_repo: The-Torch-and-Other-Tales_15737
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Phillpotts, Eden
+    birthdate: 1862
+    deathdate: 1960
+    gutenberg_agent_id: '665'
+    url: http://www.gutenberg.org/2009/agents/665
+    wikipedia: http://en.wikipedia.org/wiki/Eden_Phillpotts
+description: ''
+gutenberg_issued: '2005-04-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15737'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Great Britain -- Social life and customs -- Fiction'
+tableOfContents: '''Santa Claus'' -- The returned native -- John and Jane -- The old
+  soldier -- When Fox was ferryman -- Mother''s misfortune -- Steadfast Samuel --
+  The hound''s pool -- The price of Milly Bassett -- The amber heart -- The wise woman
+  of Walna -- The torch -- ''Spider'' -- The woodstock -- The night-hawk.'
+title: The Torch and Other Tales
+url: http://www.gutenberg.org/ebooks/15737
